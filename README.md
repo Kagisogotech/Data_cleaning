@@ -19,10 +19,6 @@ It demonstrates how to transform **raw, messy datasets** into **clean, structure
   - [Installation](#installation)  
   - [Running the Notebooks](#running-the-notebooks)  
 - [Usage](#usage)  
-- [Examples](#examples)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
 - [Acknowledgements](#acknowledgements)  
 
 ---
