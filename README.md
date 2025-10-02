@@ -25,11 +25,11 @@ The aim is to serve as both a **reference** and a **starting point** for data an
 
 ## 📂 Repository Structure
 
-├── clean_data.ipynb # Main notebook with data cleaning workflow
-├── data_cleaning.ipynb # Additional exploratory cleaning steps
-├── Book1.xlsx # Example raw dataset
-├── Book1_cleaned.xlsx # Example cleaned dataset
-└── README.md # Project documentation
+├── clean_data.ipynb #Main notebook with data cleaning workflow
+├── data_cleaning.ipynb #Additional exploratory cleaning steps
+├── Book1.xlsx #Example raw dataset
+├── Book1_cleaned.xlsx #Example cleaned dataset
+└── README.md #Project documentation
 ---
 
 ## ⚙️ Getting Started
@@ -38,7 +38,6 @@ The aim is to serve as both a **reference** and a **starting point** for data an
 ```bash
 git clone https://github.com/Kagisogotech/Data_cleaning.git
 cd Data_cleaning
-```
 python -m venv venv
 # Activate it
 # On Windows:
@@ -48,7 +47,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 (If you don’t have a requirements file yet, install manually: pip install pandas numpy openpyxl jupyter)
 jupyter notebook
-
+```
 🚀 Usage
 
 Open clean_data.ipynb in Jupyter Notebook
